@@ -45,3 +45,9 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.dcu
+Source/D2007/TtSerialPort.~dsk
+*.res
+Source/D2007/TtSerialPort.dproj.local
+*.dsk
+Source/D2007/TtSerialPort.identcache
