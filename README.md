@@ -1,4 +1,4 @@
-# ruby-library ruby  garage
+# serial port reader
 
 The component is designed for simple addition of the ability to work with serial port in you applications.
 
